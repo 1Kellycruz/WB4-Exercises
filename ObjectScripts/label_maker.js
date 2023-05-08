@@ -7,10 +7,10 @@ const myInfo = {
     
 };
 
-printContact(myInfo);
-
 function printContact(myInfo) {
     console.log(myInfo.name);
     console.log(myInfo.address);
     console.log(`${ myInfo.city }, ${ myInfo.state }, ${ myInfo.zip }`);
 }
+
+printContact(myInfo);
