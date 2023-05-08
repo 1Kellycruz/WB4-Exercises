@@ -1,6 +1,6 @@
 let phrase = "I Love Loops";
-let num = 1;
+let i = 1;
 
-for (let num = 0; num < 8; num++) {
+for (let i = 0; i < 7; i++) {
     console.log(phrase)
 }
