@@ -3,12 +3,6 @@ let yourScores = [82, 98, 94, 88, 92, 100, 100];
 
 
 
-
-
-
-
-
-
 function getAverage(scores) {
     let sum = 0
     for (let i = 0; i < scores.length; i++) {
